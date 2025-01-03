@@ -1,0 +1,9 @@
+# Složky s kompilovanými soubory
+bin/
+obj/
+
+# Nastavení Visual Studia
+.vs/
+
+# JSON soubory (volitelné)
+*.json

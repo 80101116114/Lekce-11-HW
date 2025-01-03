@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lekce-11-HW/1.0.0": {
+        "runtime": {
+          "Lekce-11-HW.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lekce-11-HW/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
